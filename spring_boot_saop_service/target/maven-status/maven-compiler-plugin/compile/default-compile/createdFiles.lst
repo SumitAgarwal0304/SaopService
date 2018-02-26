@@ -1,0 +1,8 @@
+com\example\calculator\spring\boot\saop\webservice\CalculatorResponse.class
+com\example\calculator\spring\boot\saop\service\configuration\CalculatorConfig.class
+com\example\calculator\spring\boot\saop\service\endpoint\CalculatorEndPoint.class
+com\example\calculator\spring\boot\saop\webservice\package-info.class
+com\example\calculator\spring\boot\saop\webservice\CalculatorRequest.class
+com\example\calculator\spring\boot\saop\webservice\CalculatorRequest$NumberArray.class
+com\example\calculator\spring\boot\saop\webservice\ObjectFactory.class
+com\example\calculator\spring\boot\saop\service\SpringBootSaopServiceApplication.class
